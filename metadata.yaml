@@ -1,0 +1,26 @@
+_repo: My-Adventures-with-Your-Money_44274
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44274-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Rice, George Graham
+    gutenberg_agent_id: '42669'
+    url: http://www.gutenberg.org/2009/agents/42669
+description: ''
+gutenberg_issued: '2013-11-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44274'
+  lccn: '13021314'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mineral industries -- Finance'
+- !lcc 'HG'
+- !lcsh 'Speculation'
+title: My Adventures with Your Money
+url: http://www.gutenberg.org/ebooks/44274
